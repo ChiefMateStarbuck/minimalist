@@ -21,3 +21,4 @@ Demo: [https://minimalist-hugo.netlify.app/](https://minimalist-hugo.netlify.app
 - SEO optimized (Twitter cards, Facebook Open Graph, Schema.org)
 - Ultra fast
 - CSS is only 692B!
+- Dark mode support via `prefers-color-scheme`

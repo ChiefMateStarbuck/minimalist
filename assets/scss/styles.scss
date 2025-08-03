@@ -57,3 +57,21 @@ img {
 a, a:visited {
   color: initial;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #111;
+    color: #eee;
+  }
+  pre,
+  code {
+    background: #333;
+  }
+  blockquote {
+    border-left-color: #333;
+  }
+  a,
+  a:visited {
+    color: #9cdcfe;
+  }
+}
